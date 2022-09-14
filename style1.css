@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    background:aqua;
+}
+
+
+.container{
+    width: 100%;
+    height: inherit;
+    margin: 20px;
+   
+    
+
+}
+nav ul{
+   list-style-type: none;
+   padding: 10px;
+   line-height: 30px;
+   text-align: right;
+   margin-right: 40px;
+
+}
+nav ul li {
+    display: inline;
+    padding: 10px;
+
+}
+  button {
+    width: 50px;
+    background-color:blue;
+    color: white;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+
+}
+.google-img{
+    text-align: center;
+    margin-top: 180px;
+
+   
+    
+}
+.search-box{
+    text-align: center;
+    cursor: pointer;
+    
+    
+
+}
+.search-box input{
+    width: 600px;
+    height: 45px;
+    border-radius: 40px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.gsearch{
+    margin-top: 30px;
+   text-align: center;
+   
+   
+
+   
+}
+.gsearch button{
+    width: 160px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: gray;
+    
+
+}
+a:hover{
+    color: red;
+}
+button:hover{
+    color: red;
+    background-color: white;
+}
+input:hover{
+    background-color: aliceblue;
+    color: black;
+
+}
+.lucky{
+    margin-left: 60px;
+}
+
+
+
+
+
+
+
+    
+
+
+
